@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/d3ebf0de-7a36-43b1-b6d2-ff344d7523e6" height=90>
-<img src="https://github.com/user-attachments/assets/63bfe23c-8c0e-47a6-88a5-c175aa8595ee" height=70>
+<img src="https://github.com/user-attachments/assets/d3ebf0de-7a36-43b1-b6d2-ff344d7523e6" height="95" align="middle">
+<img src="https://github.com/user-attachments/assets/63bfe23c-8c0e-47a6-88a5-c175aa8595ee" height="80" align="middle">
 
 
 # AI 코딩을 활용한 고고학 자료 분석 실습
