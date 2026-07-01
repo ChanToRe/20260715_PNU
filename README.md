@@ -752,7 +752,7 @@ dev.off()
 cat("지정 타이틀 적용 단일 산점도 TIFF 및 JPEG 파일 저장이 완료되었습니다.\n")
 ```
 
-![산점도](Results\산점도.jpeg)
+![산점도](Results\산점도.png)
 
 ##### 해석
 

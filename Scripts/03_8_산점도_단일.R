@@ -47,4 +47,9 @@ jpeg("Results/산점도.jpeg", width = width_inch * dpi_val, height = height_inc
 print(p)
 dev.off()
 
-cat("지정 타이틀 적용 단일 산점도 TIFF 및 JPEG 파일 저장이 완료되었습니다.\n")
+# 3. PNG 형식 저장
+png("Results/산점도.png", width = width_inch * dpi_val, height = height_inch * dpi_val, res = dpi_val)
+print(p)
+dev.off()
+
+cat("단일 산점도 TIFF, JPEG 및 PNG 파일 저장이 완료되었습니다.\n")
